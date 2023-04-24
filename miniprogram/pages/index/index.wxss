@@ -1,0 +1,39 @@
+/**index.wxss**/
+.card {
+  margin: 20px;
+  /* 相对定位 */
+  position: relative;
+}
+
+/* 名片背景 */
+.bg {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 0 20px #316fc7;
+}
+
+/* logo */
+.logo {
+  width: 60px;
+  height: 60px;
+  /* 绝对定位 */
+  position: absolute; 
+  top: 10px;
+  right: 10px; 
+}
+
+.info {
+  font-size: 10px;
+  position: absolute;
+  left: 20px;
+  bottom: 45px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 8px;
+  margin-bottom: 3px;
+}

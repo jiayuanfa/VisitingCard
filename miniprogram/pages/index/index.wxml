@@ -1,0 +1,12 @@
+<view class="card">
+  <image class="bg" src="../../img/mingpianbg.png" mode="widthFix"></image>
+  <image class="logo" src="../../img/jiayuanfalogo-removebg-preview.png"></image>
+
+  <view class="info">
+    <view class="name">贾元发</view>
+    <view class="desc">别称：发哥</view>
+    <view>擅长：打游戏 吃喝玩乐 写程序</view>
+    <view>邮箱：jiayuanfa@yeah.net</view>
+    <view>微信：17767262672</view>
+  </view>
+</view>
